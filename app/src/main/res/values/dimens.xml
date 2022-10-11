@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="offline_advise_out_margin">20dp</dimen>
+    <dimen name="offline_advise_in_margin_horizontal">20dp</dimen>
+    <dimen name="offline_advise_in_margin_vertical">10dp</dimen>
+    <dimen name="offline_advise_radius">30dp</dimen>
+
+    <dimen name="article_margin_horizontal">20dp</dimen>
+    <dimen name="article_margin_vertical">15dp</dimen>
+    <dimen name="article_margin_between">6dp</dimen>
+    <dimen name="article_divider_height">1dp</dimen>
+</resources>
